@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**kereciyasin/kereciyasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#I'm Yasin Kereci
 
-Here are some ideas to get you started:
+🚀 I'm a front-end developer, interested in writing new codes, dreaming new designs and creating new web sites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 I am student at "Bern Gibb Informatik & Telekommunikation (TSBE)"
+
+👯 You may find some projects on my repos, feel free to contribute or using them. 
+
+
+✨ Languages: Javascript , C#
+
+✨ Front-End Development: React, React Native, Javascript, HTML, CSS, 
+
+✨ Linux
