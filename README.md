@@ -1,12 +1,8 @@
-#👋, I'm Yasin Kereci
-## HTML & CSS & React 
+Hi there 👋
+#I'm Yasin Kereci
+🚀 I'm a front-end developer, interested in writing new codes, dreaming new designs and creating new web sites.
+💬 I am student at "Bern Gibb Informatik & Telekommunikation (TSBE)"
 
-- 💬 Ask me about **I am student at "Bern Gibb Informatik & Telekommunikation (TSBE)"**
-
-- 📫 How to reach me **kereciyasin52@gmail.com**
-
-### Connect with me:
-![https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg]([Linkedin](https://linkedin.com/in/yasinkereci))
 
 
 <h3 align="left">Languages and Tools:</h3>
