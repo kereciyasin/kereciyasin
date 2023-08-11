@@ -1,6 +1,9 @@
 Hi there 👋
+
 #I'm Yasin Kereci
+
 🚀 I'm a front-end developer, interested in writing new codes, dreaming new designs and creating new web sites.
+
 💬 I am student at "Bern Gibb Informatik & Telekommunikation (TSBE)"
 
 
