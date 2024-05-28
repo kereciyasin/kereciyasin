@@ -6,6 +6,6 @@ Hi there 👋
 
 ### Contact
 - **Email**: [kereciyasin52@gmail.com](mailto:kereciyasin52@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yasinkereci)
 - **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
 - **Personal Website**: [example.com](https://www.example.com)
