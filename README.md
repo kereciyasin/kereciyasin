@@ -10,4 +10,4 @@ Hi there 👋
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kereciyasin&show_icons=true&theme=radical)
-![](https://komarev.com/ghpvc/?username=kereciyasin)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
