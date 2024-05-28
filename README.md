@@ -9,5 +9,6 @@ Hi there 👋
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yasinkereci)
 
 ### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"> <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kereciyasin&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+
