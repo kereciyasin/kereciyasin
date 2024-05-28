@@ -8,3 +8,5 @@ Hi there 👋
 - [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kereciyasin52@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yasinkereci)
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kereciyasin&show_icons=true&theme=radical)
