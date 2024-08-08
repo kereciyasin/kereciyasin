@@ -20,7 +20,7 @@ I am currently studying Informatiker at GIBB HF in Bern and developing myself as
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)](https://[www.linkedin.co](https://www.linkedin.com/in/yasinkereci/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)](https://[www.linkedin.com](https://www.linkedin.com/in/yasinkereci/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=flat)](mailto:kereciyasin52@gmail.com)
 
 Thanks for visiting! Feel free to check out my [projects](https://github.com/kereciyasin?tab=repositories) and connect with me.
