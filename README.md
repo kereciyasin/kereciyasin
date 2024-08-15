@@ -6,13 +6,13 @@ I am currently studying Informatiker at GIBB HF in Bern and developing myself as
 ### 🛠️ Technical Skills
 
 [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)](https://www.w3schools.com/cs/index.php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://w3schools.com/html/default.asp)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://www.w3schools.com/css/default.asp)
+[![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)](https://www.w3schools.com/sass/default.php)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://www.w3schools.com/js/default.asp)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)](https://www.w3schools.com/bootstrap/default.asp)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)]
+(https://github.com/)
 ### 🖥️ GitHub Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&layout=compact&theme=dark)
