@@ -5,7 +5,7 @@ I am currently studying Informatiker at GIBB HF in Bern and developing myself as
 
 ### 🛠️ Technical Skills
 
-![C#](https://www.w3schools.com/cs/index.php)
+[![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)](https://www.w3schools.com/cs/index.php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
@@ -17,6 +17,7 @@ I am currently studying Informatiker at GIBB HF in Bern and developing myself as
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&layout=compact&theme=dark)
 ![Yasin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kereciyasin&theme=dark)
+
 
 
 ### 🔗 Connect with Me
