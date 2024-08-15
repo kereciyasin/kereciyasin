@@ -15,14 +15,12 @@ I am currently studying Informatiker at GIBB HF in Bern and developing myself as
 
 ### 🖥️ GitHub Stats
 
-### 🖥️ GitHub Stats
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&layout=compact&theme=dark)
 ![Yasin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kereciyasin&theme=dark)
 
-![Commit Animation](https://link_to_your_gif.gif)
+### ✨ Commit Animation
 
-### 🔗 Connect with Me
+![Commit Animation](https://link_to_your_gif.gif)
 
 ### 🔗 Connect with Me
 
