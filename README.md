@@ -11,8 +11,7 @@ I am currently studying Informatiker at GIBB HF in Bern and developing myself as
 [![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)](https://www.w3schools.com/sass/default.php)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://www.w3schools.com/js/default.asp)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)](https://www.w3schools.com/bootstrap/default.asp)
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)]
-(https://github.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://github.com/)
 ### 🖥️ GitHub Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&layout=compact&theme=dark)
