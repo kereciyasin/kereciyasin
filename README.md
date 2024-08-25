@@ -1,4 +1,4 @@
- [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zacharyhadjah.com%2F&psig=AOvVaw0mMJ_DAv7put7B0paL-iT7&ust=1724691467142000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi1rcbOkIgDFQAAAAAdAAAAABAK))
+
 ## I'm Yasin Kereci
 
 I am currently studying Informatiker at GIBB HF in Bern and developing myself as a Frontend Developer. I am passionate about learning new technologies and building impactful projects.
@@ -12,6 +12,7 @@ I am currently studying Informatiker at GIBB HF in Bern and developing myself as
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://www.w3schools.com/js/default.asp)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)](https://www.w3schools.com/bootstrap/default.asp)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://github.com/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 ### 🖥️ GitHub Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&layout=compact&theme=dark)
