@@ -29,4 +29,8 @@ I am currently studying Informatiker at GIBB HF in Bern and developing myself as
 Thanks for visiting! Feel free to check out my [projects](https://github.com/kereciyasin?tab=repositories) and connect with me.
 
 
-![snake gif](https://github.com/kereciyasin/kereciyasin/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kereciyasin/Ckereciyasin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kereciyasin/kereciyasin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kereciyasin/kereciyasin/output/github-contribution-grid-snake.svg">
+</picture>
