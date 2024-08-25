@@ -27,3 +27,6 @@ I am currently studying Informatiker at GIBB HF in Bern and developing myself as
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=flat)](mailto:kereciyasin52@gmail.com)
 
 Thanks for visiting! Feel free to check out my [projects](https://github.com/kereciyasin?tab=repositories) and connect with me.
+
+
+![snake gif](https://github.com/kereciyasin/kereciyasin/blob/output/github-contribution-grid-snake.gif)
