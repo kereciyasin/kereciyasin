@@ -1,6 +1,5 @@
-# Hi
+# Hi! I'm Yasin Kereci
 
-## I'm Yasin Kereci
 
 I am currently studying Informatiker at GIBB HF in Bern and developing myself as a Frontend Developer. I am passionate about learning new technologies and building impactful projects.
 
