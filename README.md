@@ -1,7 +1,12 @@
 # Hi! I'm Yasin Kereci
 
 
-I am currently studying Informatiker at GIBB HF in Bern and developing myself as a Frontend Developer. I am passionate about learning new technologies and building impactful projects.
+Ich absolviere derzeit meine Ausbildung als Informatiker an der Gibb HF in Bern. Dabei habe ich umfangreiche
+Kenntnisse in C#, .NET Core, Webentwicklung (HTML, CSS, JavaScript, Angular) sowie in der Arbeit mit
+Datenbanken (MariaDB, Microsof SQL) erworben. Mein Fokus liegt auf der Entwicklung moderner
+Webanwendungen und der Implementierung sicherer, skalierbarer Architekturen unter Verwendung von
+Sicherheitsstandards wie OAuth, HTTPS und token-basierter Authentifizierung.
+Ausbildung
 
 ### 🛠️ Technical Skills
 
