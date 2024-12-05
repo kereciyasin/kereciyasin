@@ -6,7 +6,6 @@ Kenntnisse in C#, .NET Core, Webentwicklung (HTML, CSS, JavaScript, Angular) sow
 Datenbanken (MariaDB, Microsof SQL) erworben. Mein Fokus liegt auf der Entwicklung moderner
 Webanwendungen und der Implementierung sicherer, skalierbarer Architekturen unter Verwendung von
 Sicherheitsstandards wie OAuth, HTTPS und token-basierter Authentifizierung.
-Ausbildung
 
 ### 🛠️ Technical Skills
 
