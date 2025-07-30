@@ -1,47 +1,72 @@
-# 👋 Hallo! Ich bin Yasin Kereci
+<h1 align="center">👋 Hallo! Ich bin <span style="color:#0A66C2;">Yasin Kereci</span></h1>
 
-Ich bin Yasin und lebe seit fünf Jahren in der Schweiz. Kürzlich habe ich meine Ausbildung als **Dipl. Techniker HF Informatik** an der GIBB in Bern erfolgreich abgeschlossen. Durch meine Ausbildung und zahlreiche eigene Projekte habe ich mir fundierte Kenntnisse in **.NET**, **Webentwicklung** und **Datenbankmanagement** angeeignet.
+<p align="center">
+🏡 Lebe seit 5 Jahren in der Schweiz &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 Dipl. Techniker HF Informatik (GIBB Bern)  
+<br>💻 Spezialisiert auf .NET, Webentwicklung & Datenbanken
+<br>🚀 Auf der Suche nach einer Junior Software Developer Stelle
+</p>
 
-Bei meinen Projekten lege ich besonderen Wert auf Sicherheit (OAuth, HTTPS, tokenbasierte Authentifizierung), Performance und eine saubere, skalierbare Architektur. Mein Ziel ist es, nachhaltigen und wartbaren Code zu schreiben, der echten Mehrwert bietet.
+---
 
 ## 🚀 Was ich aktuell mache
 
-- HF Informatik Ausbildung abgeschlossen (2025)
-- Entwicklung von Projekten mit ASP.NET Core, Entity Framework, SQL, Vue.js
-- Kontinuierliche Verbesserung meiner Deutschkenntnisse
-- Aktiv auf der Suche nach einer Stelle als Junior Software Developer
+- 🎓 **HF Informatik Ausbildung** abgeschlossen *(2025)*
+- 💻 Projekte mit **ASP.NET Core**, **Entity Framework**, **SQL**, **Vue.js**
+- 🧠 Tägliche Verbesserung meiner **Deutschkenntnisse**
+- 🔍 Aktive Bewerbung als **Junior Softwareentwickler**
 
 ---
 
-## 🛠️ Technische Fähigkeiten
+## 🛠️ Tech Stack
 
-- **Backend:** C#, ASP.NET Core, Entity Framework  
-- **Frontend:** HTML5, CSS3, JavaScript, Vue.js, Bootstrap, Angular  
-- **Datenbanken:** MS SQL Server, MariaDB, MongoDB  
-- **Tools & Technologien:** Git, GitHub, Postman, Visual Studio, VS Code  
-- **Softwarearchitekturen:** N-Tier Architecture, Clean Architecture, Repository Pattern  
-- **Weitere Themen:** OAuth, Auth0, HTTPS, Token-basierte Authentifizierung
+### 💻 Backend
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=entity-framework&logoColor=white&style=for-the-badge)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
+
+### 🗄️ Datenbanken
+![SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
+### 🔧 Tools & Technologien
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 ---
 
-## 📊 GitHub-Statistiken
+## 📈 GitHub-Statistiken
 
-![Meistverwendete Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&layout=compact&theme=dark)  
-![Yasins GitHub-Streak](https://github-readme-streak-stats.herokuapp.com/?user=kereciyasin&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kereciyasin&layout=compact&theme=tokyonight" alt="Top Languages">
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kereciyasin&theme=tokyonight" alt="GitHub Streak">
+</p>
 
 ---
 
-## 🔗 Kontakt
+## 📬 Kontakt
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/yasinkereci/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yasinkereci/)  
 📧 kereciyasin52@gmail.com
 
 ---
 
 ## 💬 Zum Schluss
 
-Vielen Dank für Ihren Besuch!  
-Gerne können Sie meine Projekte anschauen oder mich für eine Zusammenarbeit kontaktieren.
+> Vielen Dank für Ihren Besuch!  
+> Gerne können Sie meine Projekte anschauen oder mich für eine Zusammenarbeit kontaktieren. 😊  
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kereciyasin/kereciyasin/output/github-contribution-grid-snake-dark.svg">
